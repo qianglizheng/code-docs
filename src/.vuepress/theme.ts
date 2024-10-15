@@ -11,11 +11,11 @@ export default hopeTheme({
     url: "https://2i3.cn",
   },
 
-  iconAssets: "fontawesome",
+  iconAssets: "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/js/fontawesome.min.js",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "qianglizheng/code-docs",
 
   docsDir: "src",
 
