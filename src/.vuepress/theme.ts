@@ -26,8 +26,9 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "代码记",
   displayFooter: true,
+
 
   // 加密配置
   encrypt: {
@@ -42,7 +43,7 @@ export default hopeTheme({
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-  // hotReload: true,
+  hotReload: true,
 
   // 在这里配置主题提供的插件
   // plugins: {
